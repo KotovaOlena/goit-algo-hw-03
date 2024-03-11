@@ -97,7 +97,8 @@ users = [
     {"name": "Jane Smith2", "birthday": "1990.03.05"},
     {"name": "Jane Smith3", "birthday": "1990.03.17"},
     {"name": "Jane Smith4", "birthday": "1990.03.15"},
-    {"name": "Jane Smith5", "birthday": "1990.03.16"}
+    {"name": "Jane Smith5", "birthday": "1990.03.16"},
+    {"name": "Jane Smith5", "birthday": "1990.03.19"}
 ]
 
 upcoming_birthdays = get_upcoming_birthdays(users)
